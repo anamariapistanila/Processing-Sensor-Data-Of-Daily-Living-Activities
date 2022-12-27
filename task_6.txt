@@ -1,0 +1,5 @@
+Task6
+
+ The activities that have more than 90% of the monitoring records with duration less than 5 minutes
+
+Snack

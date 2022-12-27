@@ -1,0 +1,13 @@
+Task5
+
+The entire duration over the monitoring period
+
+Breakfast  =  Days: 0 hours: 2 minutes: 58 seconds: 8
+Grooming  =  Days: 0 hours: 2 minutes: 40 seconds: 42
+Toileting  =  Days: 0 hours: 2 minutes: 20 seconds: 34
+Sleeping  =  Days: 5 hours: 11 minutes: 3 seconds: 31
+Leaving  =  Days: 1 hours: 3 minutes: 44 seconds: 44
+Spare_Time/TV  =  Days: 5 hours: 22 minutes: 28 seconds: 55
+Snack  =  Days: 0 hours: 0 minutes: 6 seconds: 1
+Showering  =  Days: 0 hours: 1 minutes: 34 seconds: 9
+Lunch  =  Days: 0 hours: 5 minutes: 13 seconds: 31

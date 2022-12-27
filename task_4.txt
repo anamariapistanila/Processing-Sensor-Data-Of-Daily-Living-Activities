@@ -1,0 +1,32 @@
+Task4
+
+How many times each activity has appeared for each day over the monitoring period
+
+1={Breakfast=1, Toileting=2, Grooming=3, Sleeping=1, Leaving=1, Spare_Time/TV=6, Showering=1, Lunch=1}
+
+2={Breakfast=1, Toileting=3, Grooming=4, Sleeping=1, Spare_Time/TV=7, Snack=1, Showering=1, Lunch=1}
+
+3={Breakfast=1, Grooming=3, Toileting=2, Sleeping=1, Leaving=1, Spare_Time/TV=4, Showering=1}
+
+4={Breakfast=1, Grooming=2, Toileting=4, Sleeping=1, Leaving=1, Spare_Time/TV=6, Snack=2, Showering=1}
+
+5={Breakfast=1, Toileting=5, Grooming=6, Sleeping=1, Leaving=2, Spare_Time/TV=7, Snack=1, Showering=1, Lunch=1}
+
+6={Breakfast=1, Grooming=4, Toileting=3, Sleeping=1, Spare_Time/TV=5, Snack=1, Showering=1, Lunch=1}
+
+7={Breakfast=1, Toileting=6, Grooming=5, Sleeping=1, Leaving=1, Spare_Time/TV=8, Snack=2, Showering=1, Lunch=1}
+
+8={Breakfast=1, Toileting=1, Grooming=5, Sleeping=1, Leaving=1, Spare_Time/TV=4, Showering=1}
+
+9={Breakfast=1, Toileting=2, Grooming=5, Sleeping=1, Leaving=2, Spare_Time/TV=6, Showering=1}
+
+10={Breakfast=1, Toileting=1, Grooming=4, Sleeping=1, Leaving=2, Spare_Time/TV=3, Showering=1}
+
+11={Breakfast=1, Toileting=2, Grooming=3, Sleeping=1, Spare_Time/TV=3, Showering=1, Lunch=1}
+
+28={Breakfast=1, Grooming=2, Toileting=3, Sleeping=1, Leaving=1, Spare_Time/TV=4, Snack=1, Showering=1, Lunch=1}
+
+29={Breakfast=1, Grooming=3, Toileting=4, Sleeping=1, Leaving=1, Spare_Time/TV=6, Snack=1, Showering=1, Lunch=1}
+
+30={Breakfast=1, Grooming=2, Toileting=6, Sleeping=1, Leaving=1, Spare_Time/TV=8, Snack=2, Showering=1, Lunch=1}
+

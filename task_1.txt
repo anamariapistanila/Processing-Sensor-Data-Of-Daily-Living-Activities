@@ -1,0 +1,994 @@
+Task1
+
+Start time: 2011-11-28 02:27:59 
+End time : 2011-11-28 10:18:11 
+Activity Label: Sleeping
+
+Start time: 2011-11-28 10:21:24 
+End time : 2011-11-28 10:23:36 
+Activity Label: Toileting
+
+Start time: 2011-11-28 10:25:44 
+End time : 2011-11-28 10:33:00 
+Activity Label: Showering
+
+Start time: 2011-11-28 10:34:23 
+End time : 2011-11-28 10:43:00 
+Activity Label: Breakfast
+
+Start time: 2011-11-28 10:49:48 
+End time : 2011-11-28 10:51:13 
+Activity Label: Grooming
+
+Start time: 2011-11-28 10:51:41 
+End time : 2011-11-28 13:05:07 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-11-28 13:06:04 
+End time : 2011-11-28 13:06:31 
+Activity Label: Toileting
+
+Start time: 2011-11-28 13:09:31 
+End time : 2011-11-28 13:29:09 
+Activity Label: Leaving
+
+Start time: 2011-11-28 13:38:40 
+End time : 2011-11-28 14:21:40 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-11-28 14:22:38 
+End time : 2011-11-28 14:27:07 
+Activity Label: Toileting
+
+Start time: 2011-11-28 14:27:11 
+End time : 2011-11-28 15:04:00 
+Activity Label: Lunch
+
+Start time: 2011-11-28 15:04:59 
+End time : 2011-11-28 15:06:29 
+Activity Label: Grooming
+
+Start time: 2011-11-28 15:07:01 
+End time : 2011-11-28 20:20:00 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-11-28 20:20:55 
+End time : 2011-11-28 20:20:59 
+Activity Label: Snack
+
+Start time: 2011-11-28 20:21:15 
+End time : 2011-11-29 02:06:00 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-11-29 02:16:00 
+End time : 2011-11-29 11:31:00 
+Activity Label: Sleeping
+
+Start time: 2011-11-29 11:31:55 
+End time : 2011-11-29 11:36:55 
+Activity Label: Toileting
+
+Start time: 2011-11-29 11:37:38 
+End time : 2011-11-29 11:48:54 
+Activity Label: Grooming
+
+Start time: 2011-11-29 11:49:57 
+End time : 2011-11-29 11:51:13 
+Activity Label: Showering
+
+Start time: 2011-11-29 12:08:28 
+End time : 2011-11-29 12:18:00 
+Activity Label: Breakfast
+
+Start time: 2011-11-29 12:19:01 
+End time : 2011-11-29 12:22:00 
+Activity Label: Grooming
+
+Start time: 2011-11-29 12:22:38 
+End time : 2011-11-29 12:24:59 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-11-29 13:25:29 
+End time : 2011-11-29 13:25:32 
+Activity Label: Snack
+
+Start time: 2011-11-29 13:25:38 
+End time : 2011-11-29 15:12:26 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-11-29 15:13:28 
+End time : 2011-11-29 15:13:57 
+Activity Label: Toileting
+
+Start time: 2011-11-29 15:14:33 
+End time : 2011-11-29 15:45:54 
+Activity Label: Lunch
+
+Start time: 2011-11-29 15:49:51 
+End time : 2011-11-29 15:50:54 
+Activity Label: Grooming
+
+Start time: 2011-11-29 15:52:04 
+End time : 2011-11-29 16:17:58 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-11-29 16:18:00 
+End time : 2011-11-29 16:31:27 
+Activity Label: Toileting
+
+Start time: 2011-11-29 16:34:17 
+End time : 2011-11-29 17:08:07 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-11-29 17:08:58 
+End time : 2011-11-29 17:09:29 
+Activity Label: Toileting
+
+Start time: 2011-11-29 17:43:00 
+End time : 2011-11-29 18:57:22 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-11-29 19:02:15 
+End time : 2011-11-29 20:23:38 
+Activity Label: Leaving
+
+Start time: 2011-11-29 20:28:00 
+End time : 2011-11-30 01:19:47 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-11-30 01:22:33 
+End time : 2011-11-30 10:07:31 
+Activity Label: Sleeping
+
+Start time: 2011-11-30 10:11:07 
+End time : 2011-11-30 10:13:59 
+Activity Label: Toileting
+
+Start time: 2011-11-30 10:14:45 
+End time : 2011-11-30 10:18:33 
+Activity Label: Showering
+
+Start time: 2011-11-30 10:22:59 
+End time : 2011-11-30 10:35:00 
+Activity Label: Breakfast
+
+Start time: 2011-11-30 10:39:30 
+End time : 2011-11-30 10:41:13 
+Activity Label: Grooming
+
+Start time: 2011-11-30 10:41:38 
+End time : 2011-11-30 13:04:59 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-11-30 13:05:27 
+End time : 2011-11-30 13:05:31 
+Activity Label: Snack
+
+Start time: 2011-11-30 13:05:38 
+End time : 2011-11-30 14:09:34 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-11-30 14:11:16 
+End time : 2011-11-30 14:11:48 
+Activity Label: Toileting
+
+Start time: 2011-11-30 14:13:45 
+End time : 2011-11-30 14:34:09 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-11-30 14:39:42 
+End time : 2011-11-30 15:00:24 
+Activity Label: Lunch
+
+Start time: 2011-11-30 15:11:48 
+End time : 2011-11-30 16:39:11 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-11-30 16:40:01 
+End time : 2011-11-30 16:40:24 
+Activity Label: Toileting
+
+Start time: 2011-11-30 16:41:05 
+End time : 2011-11-30 16:41:09 
+Activity Label: Snack
+
+Start time: 2011-11-30 16:41:15 
+End time : 2011-11-30 18:00:38 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-11-30 18:01:44 
+End time : 2011-11-30 18:01:47 
+Activity Label: Toileting
+
+Start time: 2011-11-30 18:01:54 
+End time : 2011-11-30 18:43:20 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-11-30 18:57:08 
+End time : 2011-11-30 18:57:34 
+Activity Label: Toileting
+
+Start time: 2011-11-30 18:57:39 
+End time : 2011-11-30 19:37:10 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-11-30 19:37:36 
+End time : 2011-11-30 19:38:01 
+Activity Label: Toileting
+
+Start time: 2011-11-30 19:46:44 
+End time : 2011-11-30 20:05:12 
+Activity Label: Leaving
+
+Start time: 2011-11-30 20:13:39 
+End time : 2011-11-30 20:13:48 
+Activity Label: Grooming
+
+Start time: 2011-11-30 20:14:03 
+End time : 2011-12-01 01:34:27 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-01 01:37:52 
+End time : 2011-12-01 10:50:45 
+Activity Label: Sleeping
+
+Start time: 2011-12-01 10:55:03 
+End time : 2011-12-01 10:55:32 
+Activity Label: Grooming
+
+Start time: 2011-12-01 10:58:37 
+End time : 2011-12-01 11:12:22 
+Activity Label: Showering
+
+Start time: 2011-12-01 11:17:05 
+End time : 2011-12-01 11:29:49 
+Activity Label: Breakfast
+
+Start time: 2011-12-01 11:30:06 
+End time : 2011-12-01 14:29:02 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-01 14:29:37 
+End time : 2011-12-01 14:55:02 
+Activity Label: Lunch
+
+Start time: 2011-12-01 15:09:00 
+End time : 2011-12-01 16:26:17 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-01 16:26:35 
+End time : 2011-12-01 16:27:04 
+Activity Label: Toileting
+
+Start time: 2011-12-01 16:27:03 
+End time : 2011-12-01 16:46:40 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-01 17:17:23 
+End time : 2011-12-01 17:27:13 
+Activity Label: Grooming
+
+Start time: 2011-12-01 17:29:29 
+End time : 2011-12-01 18:49:51 
+Activity Label: Leaving
+
+Start time: 2011-12-01 18:55:03 
+End time : 2011-12-01 19:10:34 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-01 19:28:51 
+End time : 2011-12-01 19:29:59 
+Activity Label: Toileting
+
+Start time: 2011-12-01 19:30:01 
+End time : 2011-12-01 23:52:52 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-01 23:53:00 
+End time : 2011-12-01 23:53:28 
+Activity Label: Grooming
+
+Start time: 2011-12-01 23:54:32 
+End time : 2011-12-02 01:18:32 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-02 01:18:44 
+End time : 2011-12-02 01:18:57 
+Activity Label: Grooming
+
+Start time: 2011-12-02 01:19:09 
+End time : 2011-12-02 02:08:17 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-02 02:09:33 
+End time : 2011-12-02 02:13:56 
+Activity Label: Grooming
+
+Start time: 2011-12-02 02:15:55 
+End time : 2011-12-02 12:15:19 
+Activity Label: Sleeping
+
+Start time: 2011-12-02 12:16:00 
+End time : 2011-12-02 12:20:40 
+Activity Label: Toileting
+
+Start time: 2011-12-02 12:20:41 
+End time : 2011-12-02 13:20:59 
+Activity Label: Grooming
+
+Start time: 2011-12-02 12:21:19 
+End time : 2011-12-02 12:25:40 
+Activity Label: Showering
+
+Start time: 2011-12-02 12:27:47 
+End time : 2011-12-02 13:35:49 
+Activity Label: Breakfast
+
+Start time: 2011-12-02 12:37:47 
+End time : 2011-12-02 14:46:29 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-02 14:47:00 
+End time : 2011-12-02 15:20:00 
+Activity Label: Lunch
+
+Start time: 2011-12-02 15:24:05 
+End time : 2011-12-02 15:55:12 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-02 15:56:02 
+End time : 2011-12-02 15:57:55 
+Activity Label: Grooming
+
+Start time: 2011-12-02 15:58:00 
+End time : 2011-12-02 16:36:05 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-02 16:37:27 
+End time : 2011-12-02 16:47:27 
+Activity Label: Toileting
+
+Start time: 2011-12-02 16:47:39 
+End time : 2011-12-02 19:39:08 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-02 19:40:44 
+End time : 2011-12-02 19:40:50 
+Activity Label: Snack
+
+Start time: 2011-12-02 19:41:14 
+End time : 2011-12-02 21:26:09 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-02 21:27:09 
+End time : 2011-12-02 21:44:37 
+Activity Label: Toileting
+
+Start time: 2011-12-02 21:46:31 
+End time : 2011-12-03 01:41:08 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-03 01:47:02 
+End time : 2011-12-03 11:56:20 
+Activity Label: Sleeping
+
+Start time: 2011-12-03 11:57:15 
+End time : 2011-12-03 11:59:15 
+Activity Label: Toileting
+
+Start time: 2011-12-03 11:59:33 
+End time : 2011-12-03 12:01:59 
+Activity Label: Grooming
+
+Start time: 2011-12-03 12:03:36 
+End time : 2011-12-03 12:07:26 
+Activity Label: Showering
+
+Start time: 2011-12-03 12:10:35 
+End time : 2011-12-03 12:19:30 
+Activity Label: Breakfast
+
+Start time: 2011-12-03 12:21:30 
+End time : 2011-12-03 13:28:36 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-03 13:29:00 
+End time : 2011-12-03 13:29:59 
+Activity Label: Grooming
+
+Start time: 2011-12-03 13:29:48 
+End time : 2011-12-03 14:01:20 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-03 14:11:10 
+End time : 2011-12-03 14:14:43 
+Activity Label: Grooming
+
+Start time: 2011-12-03 14:18:11 
+End time : 2011-12-03 17:48:37 
+Activity Label: Leaving
+
+Start time: 2011-12-03 17:50:14 
+End time : 2011-12-03 23:53:24 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-03 23:54:00 
+End time : 2011-12-03 23:54:51 
+Activity Label: Toileting
+
+Start time: 2011-12-03 23:55:18 
+End time : 2011-12-04 03:16:13 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-04 03:19:17 
+End time : 2011-12-04 12:37:49 
+Activity Label: Sleeping
+
+Start time: 2011-12-04 12:39:45 
+End time : 2011-12-04 12:45:44 
+Activity Label: Toileting
+
+Start time: 2011-12-04 12:46:11 
+End time : 2011-12-04 12:47:28 
+Activity Label: Grooming
+
+Start time: 2011-12-04 12:50:56 
+End time : 2011-12-04 12:54:55 
+Activity Label: Showering
+
+Start time: 2011-12-04 12:56:08 
+End time : 2011-12-04 12:59:48 
+Activity Label: Breakfast
+
+Start time: 2011-12-04 13:00:53 
+End time : 2011-12-04 13:58:10 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-04 14:00:12 
+End time : 2011-12-04 14:03:42 
+Activity Label: Toileting
+
+Start time: 2011-12-04 14:11:50 
+End time : 2011-12-04 16:31:01 
+Activity Label: Leaving
+
+Start time: 2011-12-04 16:34:00 
+End time : 2011-12-04 17:25:39 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-04 17:27:03 
+End time : 2011-12-04 17:27:08 
+Activity Label: Snack
+
+Start time: 2011-12-04 17:27:16 
+End time : 2011-12-04 17:43:56 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-04 17:45:00 
+End time : 2011-12-04 17:45:59 
+Activity Label: Grooming
+
+Start time: 2011-12-04 18:08:28 
+End time : 2011-12-04 18:57:52 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-04 18:58:06 
+End time : 2011-12-04 18:59:33 
+Activity Label: Toileting
+
+Start time: 2011-12-04 18:59:53 
+End time : 2011-12-04 18:59:59 
+Activity Label: Snack
+
+Start time: 2011-12-04 19:00:04 
+End time : 2011-12-04 22:20:59 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-04 22:21:10 
+End time : 2011-12-04 22:22:10 
+Activity Label: Toileting
+
+Start time: 2011-12-04 22:22:19 
+End time : 2011-12-05 01:28:09 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-05 01:31:34 
+End time : 2011-12-05 01:31:39 
+Activity Label: Grooming
+
+Start time: 2011-12-05 01:35:10 
+End time : 2011-12-05 11:48:55 
+Activity Label: Sleeping
+
+Start time: 2011-12-05 11:53:01 
+End time : 2011-12-05 11:53:31 
+Activity Label: Toileting
+
+Start time: 2011-12-05 11:57:47 
+End time : 2011-12-05 11:57:55 
+Activity Label: Grooming
+
+Start time: 2011-12-05 12:01:23 
+End time : 2011-12-05 12:08:56 
+Activity Label: Showering
+
+Start time: 2011-12-05 12:14:49 
+End time : 2011-12-05 12:24:37 
+Activity Label: Breakfast
+
+Start time: 2011-12-05 13:46:29 
+End time : 2011-12-05 14:26:46 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-05 14:28:36 
+End time : 2011-12-05 14:28:42 
+Activity Label: Grooming
+
+Start time: 2011-12-05 14:38:07 
+End time : 2011-12-05 14:55:06 
+Activity Label: Leaving
+
+Start time: 2011-12-05 14:57:51 
+End time : 2011-12-05 15:40:59 
+Activity Label: Lunch
+
+Start time: 2011-12-05 15:42:25 
+End time : 2011-12-05 15:43:59 
+Activity Label: Grooming
+
+Start time: 2011-12-05 15:44:00 
+End time : 2011-12-05 15:44:16 
+Activity Label: Toileting
+
+Start time: 2011-12-05 15:44:56 
+End time : 2011-12-05 16:02:10 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-05 16:06:32 
+End time : 2011-12-05 16:36:32 
+Activity Label: Toileting
+
+Start time: 2011-12-05 16:37:15 
+End time : 2011-12-05 17:14:32 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-05 17:17:07 
+End time : 2011-12-05 18:57:16 
+Activity Label: Leaving
+
+Start time: 2011-12-05 19:01:42 
+End time : 2011-12-05 19:24:02 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-05 19:24:11 
+End time : 2011-12-05 19:24:16 
+Activity Label: Snack
+
+Start time: 2011-12-05 19:24:22 
+End time : 2011-12-05 20:07:19 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-05 20:07:32 
+End time : 2011-12-05 20:07:47 
+Activity Label: Grooming
+
+Start time: 2011-12-05 20:08:12 
+End time : 2011-12-05 20:08:52 
+Activity Label: Toileting
+
+Start time: 2011-12-05 20:09:00 
+End time : 2011-12-05 21:06:25 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-05 21:06:35 
+End time : 2011-12-05 21:06:43 
+Activity Label: Toileting
+
+Start time: 2011-12-05 21:06:44 
+End time : 2011-12-05 21:07:00 
+Activity Label: Grooming
+
+Start time: 2011-12-05 21:07:14 
+End time : 2011-12-06 00:38:24 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-06 00:39:01 
+End time : 2011-12-06 00:40:41 
+Activity Label: Toileting
+
+Start time: 2011-12-06 00:42:37 
+End time : 2011-12-06 10:07:20 
+Activity Label: Sleeping
+
+Start time: 2011-12-06 11:08:00 
+End time : 2011-12-06 11:08:53 
+Activity Label: Toileting
+
+Start time: 2011-12-06 11:09:49 
+End time : 2011-12-06 11:11:45 
+Activity Label: Grooming
+
+Start time: 2011-12-06 11:12:19 
+End time : 2011-12-06 11:25:57 
+Activity Label: Showering
+
+Start time: 2011-12-06 11:30:19 
+End time : 2011-12-06 11:35:26 
+Activity Label: Breakfast
+
+Start time: 2011-12-06 11:39:34 
+End time : 2011-12-06 14:37:50 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-06 14:40:53 
+End time : 2011-12-06 15:15:58 
+Activity Label: Lunch
+
+Start time: 2011-12-06 15:18:35 
+End time : 2011-12-06 15:20:32 
+Activity Label: Grooming
+
+Start time: 2011-12-06 15:21:46 
+End time : 2011-12-06 17:11:04 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-06 17:13:04 
+End time : 2011-12-06 17:19:04 
+Activity Label: Toileting
+
+Start time: 2011-12-06 17:19:34 
+End time : 2011-12-06 18:06:26 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-06 18:07:03 
+End time : 2011-12-06 18:07:15 
+Activity Label: Grooming
+
+Start time: 2011-12-06 18:07:36 
+End time : 2011-12-06 19:22:33 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-06 19:22:50 
+End time : 2011-12-06 19:22:55 
+Activity Label: Snack
+
+Start time: 2011-12-06 19:25:56 
+End time : 2011-12-06 19:26:20 
+Activity Label: Grooming
+
+Start time: 2011-12-06 19:40:28 
+End time : 2011-12-07 00:07:38 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-07 00:07:47 
+End time : 2011-12-07 00:07:57 
+Activity Label: Grooming
+
+Start time: 2011-12-07 00:08:10 
+End time : 2011-12-07 00:54:50 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-07 00:57:29 
+End time : 2011-12-07 00:57:53 
+Activity Label: Toileting
+
+Start time: 2011-12-07 00:59:56 
+End time : 2011-12-07 10:45:40 
+Activity Label: Sleeping
+
+Start time: 2011-12-07 10:46:15 
+End time : 2011-12-07 10:49:26 
+Activity Label: Toileting
+
+Start time: 2011-12-07 10:50:38 
+End time : 2011-12-07 11:04:19 
+Activity Label: Grooming
+
+Start time: 2011-12-07 11:05:51 
+End time : 2011-12-07 11:11:32 
+Activity Label: Showering
+
+Start time: 2011-12-07 11:12:17 
+End time : 2011-12-07 11:20:04 
+Activity Label: Breakfast
+
+Start time: 2011-12-07 11:22:58 
+End time : 2011-12-07 13:56:10 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-07 14:03:34 
+End time : 2011-12-07 14:39:30 
+Activity Label: Lunch
+
+Start time: 2011-12-07 14:41:59 
+End time : 2011-12-07 15:28:03 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-07 15:31:23 
+End time : 2011-12-07 15:31:41 
+Activity Label: Grooming
+
+Start time: 2011-12-07 15:31:42 
+End time : 2011-12-07 15:31:46 
+Activity Label: Toileting
+
+Start time: 2011-12-07 15:32:15 
+End time : 2011-12-07 16:11:28 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-07 16:15:26 
+End time : 2011-12-07 16:21:09 
+Activity Label: Grooming
+
+Start time: 2011-12-07 16:25:45 
+End time : 2011-12-07 18:12:36 
+Activity Label: Leaving
+
+Start time: 2011-12-07 18:14:56 
+End time : 2011-12-07 18:14:59 
+Activity Label: Grooming
+
+Start time: 2011-12-07 18:15:00 
+End time : 2011-12-07 18:15:03 
+Activity Label: Toileting
+
+Start time: 2011-12-07 18:15:51 
+End time : 2011-12-07 19:21:46 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-07 19:23:55 
+End time : 2011-12-07 19:28:46 
+Activity Label: Snack
+
+Start time: 2011-12-07 20:37:50 
+End time : 2011-12-07 20:38:18 
+Activity Label: Snack
+
+Start time: 2011-12-07 20:39:16 
+End time : 2011-12-07 20:39:44 
+Activity Label: Toileting
+
+Start time: 2011-12-07 20:40:29 
+End time : 2011-12-07 20:42:35 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-07 20:52:23 
+End time : 2011-12-07 23:19:30 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-07 23:19:40 
+End time : 2011-12-07 23:19:56 
+Activity Label: Toileting
+
+Start time: 2011-12-07 23:20:16 
+End time : 2011-12-08 01:32:32 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-08 01:39:41 
+End time : 2011-12-08 11:14:29 
+Activity Label: Sleeping
+
+Start time: 2011-12-08 11:17:37 
+End time : 2011-12-08 11:17:48 
+Activity Label: Grooming
+
+Start time: 2011-12-08 11:17:49 
+End time : 2011-12-08 11:17:58 
+Activity Label: Toileting
+
+Start time: 2011-12-08 11:18:02 
+End time : 2011-12-08 11:18:13 
+Activity Label: Grooming
+
+Start time: 2011-12-08 11:19:22 
+End time : 2011-12-08 11:24:17 
+Activity Label: Showering
+
+Start time: 2011-12-08 11:25:12 
+End time : 2011-12-08 11:34:01 
+Activity Label: Breakfast
+
+Start time: 2011-12-08 11:36:09 
+End time : 2011-12-08 13:41:19 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-08 14:04:49 
+End time : 2011-12-08 14:05:01 
+Activity Label: Grooming
+
+Start time: 2011-12-08 14:10:03 
+End time : 2011-12-08 16:21:41 
+Activity Label: Leaving
+
+Start time: 2011-12-08 16:24:27 
+End time : 2011-12-08 22:13:23 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-08 22:13:35 
+End time : 2011-12-08 22:13:49 
+Activity Label: Grooming
+
+Start time: 2011-12-08 22:14:14 
+End time : 2011-12-08 23:12:37 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-08 23:14:09 
+End time : 2011-12-08 23:14:27 
+Activity Label: Grooming
+
+Start time: 2011-12-08 23:14:35 
+End time : 2011-12-09 01:03:07 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-09 01:04:24 
+End time : 2011-12-09 01:05:43 
+Activity Label: Grooming
+
+Start time: 2011-12-09 01:16:42 
+End time : 2011-12-09 10:49:07 
+Activity Label: Sleeping
+
+Start time: 2011-12-09 10:51:56 
+End time : 2011-12-09 10:52:27 
+Activity Label: Toileting
+
+Start time: 2011-12-09 10:52:30 
+End time : 2011-12-09 10:52:50 
+Activity Label: Grooming
+
+Start time: 2011-12-09 10:54:58 
+End time : 2011-12-09 10:58:21 
+Activity Label: Showering
+
+Start time: 2011-12-09 11:00:13 
+End time : 2011-12-09 11:08:15 
+Activity Label: Breakfast
+
+Start time: 2011-12-09 11:09:35 
+End time : 2011-12-09 12:32:57 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-09 12:33:21 
+End time : 2011-12-09 12:42:15 
+Activity Label: Grooming
+
+Start time: 2011-12-09 12:44:16 
+End time : 2011-12-09 16:33:56 
+Activity Label: Leaving
+
+Start time: 2011-12-09 16:45:53 
+End time : 2011-12-09 16:59:52 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-09 17:01:37 
+End time : 2011-12-09 17:04:57 
+Activity Label: Toileting
+
+Start time: 2011-12-09 17:06:38 
+End time : 2011-12-09 17:59:19 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-09 17:59:25 
+End time : 2011-12-09 17:59:27 
+Activity Label: Grooming
+
+Start time: 2011-12-09 18:02:18 
+End time : 2011-12-09 18:19:03 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-09 18:32:02 
+End time : 2011-12-09 18:48:36 
+Activity Label: Leaving
+
+Start time: 2011-12-09 19:19:54 
+End time : 2011-12-09 21:04:31 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-09 21:04:37 
+End time : 2011-12-09 21:04:50 
+Activity Label: Grooming
+
+Start time: 2011-12-09 21:04:59 
+End time : 2011-12-10 00:16:21 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-10 00:16:31 
+End time : 2011-12-10 00:16:49 
+Activity Label: Grooming
+
+Start time: 2011-12-10 00:17:05 
+End time : 2011-12-10 00:46:13 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-10 00:50:47 
+End time : 2011-12-10 09:26:17 
+Activity Label: Sleeping
+
+Start time: 2011-12-10 09:28:00 
+End time : 2011-12-10 09:35:48 
+Activity Label: Toileting
+
+Start time: 2011-12-10 09:37:16 
+End time : 2011-12-10 09:46:27 
+Activity Label: Grooming
+
+Start time: 2011-12-10 09:47:44 
+End time : 2011-12-10 09:52:42 
+Activity Label: Showering
+
+Start time: 2011-12-10 09:55:18 
+End time : 2011-12-10 10:02:10 
+Activity Label: Breakfast
+
+Start time: 2011-12-10 10:03:20 
+End time : 2011-12-10 12:34:09 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-10 12:52:54 
+End time : 2011-12-10 12:53:39 
+Activity Label: Grooming
+
+Start time: 2011-12-10 13:04:03 
+End time : 2011-12-10 17:07:03 
+Activity Label: Leaving
+
+Start time: 2011-12-10 17:11:23 
+End time : 2011-12-10 20:16:51 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-10 20:21:54 
+End time : 2011-12-10 20:23:16 
+Activity Label: Grooming
+
+Start time: 2011-12-10 20:25:40 
+End time : 2011-12-11 00:56:05 
+Activity Label: Leaving
+
+Start time: 2011-12-11 01:01:41 
+End time : 2011-12-11 02:26:29 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-11 02:27:23 
+End time : 2011-12-11 02:28:44 
+Activity Label: Grooming
+
+Start time: 2011-12-11 02:31:15 
+End time : 2011-12-11 11:57:34 
+Activity Label: Sleeping
+
+Start time: 2011-12-11 11:58:17 
+End time : 2011-12-11 12:01:27 
+Activity Label: Toileting
+
+Start time: 2011-12-11 12:02:25 
+End time : 2011-12-11 12:02:39 
+Activity Label: Grooming
+
+Start time: 2011-12-11 12:02:56 
+End time : 2011-12-11 12:18:42 
+Activity Label: Showering
+
+Start time: 2011-12-11 12:21:57 
+End time : 2011-12-11 12:30:09 
+Activity Label: Breakfast
+
+Start time: 2011-12-11 12:32:49 
+End time : 2011-12-11 14:26:18 
+Activity Label: Spare_Time/TV
+
+Start time: 2011-12-11 14:34:12 
+End time : 2011-12-11 15:26:17 
+Activity Label: Lunch
+
+Start time: 2011-12-11 15:28:59 
+End time : 2011-12-11 15:30:14 
+Activity Label: Toileting
+
+Start time: 2011-12-11 15:41:34 
+End time : 2011-12-11 15:43:30 
+Activity Label: Grooming
+
+Start time: 2011-12-11 15:43:51 
+End time : 2011-12-11 21:41:48 
+Activity Label: Spare_Time/TV
+
